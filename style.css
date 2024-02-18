@@ -9,6 +9,9 @@ nav{
     align-items: center;
     background-color: gray;
 }
+.item{
+    text-decoration: none;
+}
 
 .menu-items-container{
     display: flex;
